@@ -1,6 +1,5 @@
 [book]
 authors = ["Cian O'Connor"]
-multilingual = false
 src = "src"
 title = "A Guide to Synthesis in SuperCollider"
 
