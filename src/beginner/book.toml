@@ -1,6 +1,5 @@
 [book]
 authors = ["Cian O'Connor", "Nathan Ho"]
-multilingual = false
 src = "src"
 title = "SuperCollider by Example"
 
