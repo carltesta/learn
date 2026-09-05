@@ -1,6 +1,5 @@
 [book]
 authors = ["Cian O'Connor"]
-multilingual = false
 src = "src"
 title = "A SuperCollider Programming Tutorial"
 
